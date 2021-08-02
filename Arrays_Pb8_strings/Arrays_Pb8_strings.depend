@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492640488 source:c:\users\user\code_in_c\arrays_pb8_strings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

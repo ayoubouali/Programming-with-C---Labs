@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1484597901 source:c:\users\user\code_in_c\electricity bill\main.c
+	<stdio.h>
+	<stdlib.h>
+

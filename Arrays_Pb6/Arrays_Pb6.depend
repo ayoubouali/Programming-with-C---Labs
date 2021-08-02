@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1492637089 source:c:\users\user\code_in_c\arrays_pb6\main.c
+	<stdio.h>
+	<stdlib.h>
+

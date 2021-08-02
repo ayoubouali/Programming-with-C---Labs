@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1489267765 source:c:\users\user\code_in_c\arrays_pb4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

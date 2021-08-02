@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1488045459 source:c:\users\user\code_in_c\diamond shape\main.c
+	<stdio.h>
+	<stdlib.h>
+

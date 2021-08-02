@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1495900677 source:c:\users\user\downloads\bluetooth\c\function_pb7\main.c
+	<stdio.h>
+	<stdlib.h>
+
